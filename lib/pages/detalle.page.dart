@@ -33,6 +33,7 @@ class DetallePage extends StatelessWidget {
                         ),
                       ),
                     )),
+                    
                     Expanded(
                         child: Padding(
                       padding: const EdgeInsets.all(15),

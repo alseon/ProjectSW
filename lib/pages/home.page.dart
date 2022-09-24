@@ -126,7 +126,7 @@ class _HomePageState extends State<HomePage> {
                           image: DecorationImage(
                               image: AssetImage('assets/HachiFit.jpg'),
                               repeat: ImageRepeat.noRepeat),
-                          color: Colors.white,
+                          color: Color.fromARGB(255, 255, 255, 255),
                           borderRadius: BorderRadius.circular(10),
                         ),
                       ),
